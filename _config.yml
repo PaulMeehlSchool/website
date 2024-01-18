@@ -1,6 +1,6 @@
 title: "Paul Meehl Graduate School"
 author: "Sajedeh Rasti"
-description: "Eindhoven University of Technology"
+description: "Paul Meehl Graduate School"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "About"}
+  - {file: "about.md", title: "About"}
   - {file: "README.md", title: "Teaching"}
+  - {title: "Membership", file: "membership.md"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
