@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "School"
+title: ""
 ---
 
 ![image](https://github.com/Sajedehra/sajedehra.github.io/assets/118833443/9225beff-f75d-4a2a-a079-4bf507542451)
