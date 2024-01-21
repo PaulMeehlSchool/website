@@ -1,0 +1,48 @@
+---
+layout: default
+title: "Membership"
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Information Form</title>
+</head>
+<body>
+
+# User Information Form
+
+<form id="userInfoForm">
+    **Name:**
+    <input type="text" id="name" name="name" required>
+    <br>
+    **Email:**
+    <input type="email" id="email" name="email" required>
+    <br>
+    <button type="button" onclick="submitForm()">Submit</button>
+</form>
+
+<script>
+function submitForm() {
+    var name = document.getElementById("name").value;
+    var email = document.getElementById("email").value;
+
+    // Create a CSV-formatted string
+    var csvData = "Name,Email\n" + name + "," + email + "\n";
+
+    // Create a Blob and trigger a download
+    var blob = new Blob([csvData], { type: 'text/csv' });
+    var a = document.createElement('a');
+    a.href = window.URL.createObjectURL(blob);
+    a.download = 'user_info.csv';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+}
+</script>
+
+</body>
+</html>
+
