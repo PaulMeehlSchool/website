@@ -2,7 +2,7 @@
 layout: post
 title: ""
 ---
-**Workshops**
+<span style="font-size:2em;">Workshops</span>
 
 - [Meta Analysis and Bias Detection](metaanalysis.md) February 22, 2024
   
