@@ -5,7 +5,6 @@ title: "Membership"
 
 Membership is free and not compulsory at Paul Meehl School. However, members have priority enrollment in the workshops.
 
-Please note that we might ask your supervisor to contribute to teaching practices at Paul Meehl School.
 
 **Criteria**
 
