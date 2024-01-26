@@ -4,6 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-The mission of Paul Meehl Graduate School is to provide interdisciplinary education that empowers PhD students to critically examine and enhance the foundations, methodologies, and ethical frameworks underlying scientific practice.
+Paul Meehl Graduate School is a center based at Eindhoven University of Technology (TU/e) for graduate training focusing on quality and efficiency of scientific research. We set to encourage PhD students to critically examine the foundations, methodologies, and ethical frameworks underlying scientific practice. To this end, we offer training workshops on a veriaty of metascientific topics to provide a chance for PhD students to enhance their skills and engage in meaningful discussions. In Paul Meehl School, we are driven by the belief that education should be accessible to all who seek it. All workshops are delivered tuition-free to ensure financial barriers do not hinder participation.
 
-As a tuition-free institution, we are driven by the belief that education should be accessible to all who seek it. At Paul Meehl Graduate School, we remove financial barriers, ensuring that talent and passion are the primary criteria for admission. Our commitment to affordability aligns with our broader mission of democratizing access to high-quality education in the field of meta-science.
+This graduate school is named after Paul E. Meehl (1920 - 2003), an influential American psychologist who made seminal contributions to numerous domains of psychological theory, science, and practice. One of his lesser-known but significant contributions is his role in co-developing and extending metascience, the science of science, which is the focus of this graduate school.
