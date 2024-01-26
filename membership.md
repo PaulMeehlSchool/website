@@ -11,7 +11,7 @@ Please note that we might ask your supervisor to contribute to teaching practice
 
 - You must be registered as a PhD student at one of the Dutch universities.
 
-- You must adhere to the code of conduct of Paul Meehl School.
+- You must adhere to the [code of conduct](404.html) of Paul Meehl School.
 
 - At least one of your supervisiors must consent to offer a workshop in line with the scientific mission of our school upon request.
 
