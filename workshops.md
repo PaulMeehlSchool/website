@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "workshops"
 ---
 - [Meta Analysis and Bias Detection](_posts/2024-02-22-MetaAnalysis.md) February 22, 2024
