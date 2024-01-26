@@ -14,4 +14,4 @@ Membership is free and not compulsory at Paul Meehl School. However, members hav
 
 [Application form](https://docs.google.com/forms/d/e/1FAIpQLSeUN-aAtmZGJr4jAvwmI8N-5EaDexadsj7MCLb1IlsTPpJQNA/viewform?usp=sf_link)
 
-Once you have applied for the memberships, the Research Committee will evaluate your application. You will receive a message on short notice regarding your membership status.
+Once you have applied for the membership, the Research Committee will evaluate your application. You will receive a message on short notice regarding your membership status.
