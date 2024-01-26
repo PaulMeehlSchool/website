@@ -10,9 +10,7 @@ Membership is free and not compulsory at Paul Meehl School. However, members hav
 
 - You must be registered as a PhD student at one of the Dutch universities.
 
-- You must adhere to the [code of conduct](404.html) of Paul Meehl School.
-
-- At least one of your supervisiors must consent to offer a workshop in line with the scientific mission of our school upon request.
+- At least one of your supervisors must be willing to offer a workshop at Paul Meehl School upon request.
 
 [Application form](https://docs.google.com/forms/d/e/1FAIpQLSeUN-aAtmZGJr4jAvwmI8N-5EaDexadsj7MCLb1IlsTPpJQNA/viewform?usp=sf_link)
 
