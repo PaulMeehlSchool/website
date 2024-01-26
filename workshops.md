@@ -8,3 +8,5 @@ title: "workshops"
 {% else %}
   {% include archive.html title="Workshops" %}
 {% endif %}
+
+- [Meta Analysis and Bias Detection](_posts/2024-02-22-MetaAnalysis.md) February 22, 2024
