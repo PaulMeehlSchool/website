@@ -3,7 +3,42 @@ layout: page
 title: ""
 ---
 
-<div style="text-align: center;">
-  <img src="https://github.com/Sajedehra/sajedehra.github.io/assets/118833443/d57e4be6-336c-4754-87ab-8250e5b8092c" style="width: 100%; max-width: 100%;" />
-  <span style="font-size: 40px; font-weight: bold;">Welcome to Paul Meehl Graduate School</span>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .image-container {
+            flex: 1;
+        }
+
+        .quote-container {
+            flex: 1;
+            padding-left: 20px; /* Adjust as needed for spacing */
+        }
+    </style>
+    <title>Image and Quote</title>
+</head>
+<body>
+
+<div class="container">
+    <div class="image-container">
+        <img src="https://github.com/Sajedehra/sajedehra.github.io/assets/118833443/41b4c781-c172-4de6-8af6-af83658afdd4" alt="Your Image">
+    </div>
+    <div class="quote-container">
+        <blockquote>
+            a quote from paul meehl
+        </blockquote>
+    </div>
 </div>
+
+</body>
+</html>
+
