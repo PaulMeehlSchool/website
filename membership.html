@@ -1,48 +1,18 @@
 ---
-layout: default
+layout: page
 title: "Membership"
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User Information Form</title>
-</head>
-<body>
+Membership is free and not compulsory at Paul Meehl School. However, members have priority enrollment in the workshops.
 
-# User Information Form
+Please note that we might ask your supervisor to contribute to teaching practices at Paul Meehl School.
 
-<form id="userInfoForm">
-    **Name:**
-    <input type="text" id="name" name="name" required>
-    <br>
-    **Email:**
-    <input type="email" id="email" name="email" required>
-    <br>
-    <button type="button" onclick="submitForm()">Submit</button>
-</form>
+**Criteria**
 
-<script>
-function submitForm() {
-    var name = document.getElementById("name").value;
-    var email = document.getElementById("email").value;
+- You must be registered as a PhD student at one of the Dutch universities.
 
-    // Create a CSV-formatted string
-    var csvData = "Name,Email\n" + name + "," + email + "\n";
+- At least one of your supervisiors must consent to offer a workshop in line with the scientific mission of our school upon request.
 
-    // Create a Blob and trigger a download
-    var blob = new Blob([csvData], { type: 'text/csv' });
-    var a = document.createElement('a');
-    a.href = window.URL.createObjectURL(blob);
-    a.download = 'user_info.csv';
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-}
-</script>
+(Application form)[404.html]
 
-</body>
-</html>
-
+Once you have applied for the memberships, the Research Committee will evaluate your application. You will receive a message on short notice regarding your membership status.
