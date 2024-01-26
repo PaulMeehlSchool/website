@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "workshops"
+title: ""
 ---
+**Workshops**
+
 - [Meta Analysis and Bias Detection](metaanalysis.md) February 22, 2024
 - [Theory Building](_posts/2024-03-27-theory.md) March 27, 2024
 - [Advanced Simulations](_posts/simulation.md) To be announced
