@@ -33,7 +33,11 @@ title: ""
 
 <div class="container">
     <div class="image-container">
-        <img src="https://github.com/Sajedehra/sajedehra.github.io/assets/118833443/41b4c781-c172-4de6-8af6-af83658afdd4" alt="Your Image">
+        <figure>
+            <img src="https://github.com/Sajedehra/sajedehra.github.io/assets/118833443/41b4c781-c172-4de6-8af6-af83658afdd4" alt="Your Image">
+            <figcaption>Paul E. Meehl (1920 - 2003)</figcaption>
+        </figure>
+            
     </div>
     <div class="quote-container">
         <blockquote>
