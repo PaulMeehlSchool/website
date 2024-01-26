@@ -5,22 +5,22 @@ layout: post
 categories: media
 ---
 
-## Course Description
+### Course Description
 
-what this course is about and what it will cover
+.....
 
-## Prerequisites 
+### Prerequisites 
 
-R - reading
+....
 
-## Reading Materials
+### Reading Materials
 
-the name of the book/notes
+....
 
-## Capacity
+### Capacity
 
-how many people can join this course
+This course has a maximum capacity of 25 participants.
 
-## Instructors
+### Instructors
 
-brief description of the instructors
+brief introduction
