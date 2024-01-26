@@ -1,7 +1,12 @@
 ---
-layout: page
+layout: post
 title: ""
 ---
+
+
+
+
+
 
 <html lang="en">
 <head>
