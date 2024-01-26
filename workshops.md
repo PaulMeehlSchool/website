@@ -12,7 +12,9 @@ It is important to note that ECTS credits will be assigned only upon the success
 
 **Registration**
 
-You can register for courses with the coordinator at xxxxx. Please note that each workshop has limited capacity, and members of Paul Meehl School have priority enrollment in the workshops.
+You can register for courses with the coordinator at xxxxx. 
+
+Please note that each workshop has limited capacity, and members of Paul Meehl School have priority enrollment in the workshops.
 
 **2024 Program**
 
