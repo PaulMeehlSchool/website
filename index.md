@@ -24,7 +24,6 @@ title: ""
             padding-left: 20px; /* Adjust as needed for spacing */
         }
     </style>
-    <title>Image and Quote</title>
 </head>
 <body>
 
