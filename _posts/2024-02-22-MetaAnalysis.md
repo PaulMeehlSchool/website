@@ -1,6 +1,6 @@
 ---
 title:  "Meta-Analysis and Bias Detection"
-mathjax: true
+mathjax: false
 layout: post
 categories: media
 ---
