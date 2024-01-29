@@ -20,6 +20,7 @@ categories: media
 ### Capacity
 
 This course has a maximum capacity of 25 participants.
+
 <br>
 
 ### Location
