@@ -21,6 +21,7 @@ categories: media
 
 This course has a maximum capacity of 25 participants.
 <br>
+
 ### Location
 
 This workshop will be held on-site at Eindhoven University of Technology.
