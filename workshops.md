@@ -12,9 +12,9 @@ It is important to note that ECTS credits will be assigned only upon the success
 
 **Registration**
 
-You can register for courses at [paulmeehlschool@gmail.com](mailto:paulmeehlschool@gmail.com). 
+You can register for each workshop on its dedicated page. Please note that each workshop has limited capacity, and members of Paul Meehl School have priority enrollment in the workshops.
 
-Please note that each workshop has limited capacity, and members of Paul Meehl School have priority enrollment in the workshops.
+If you have any questions, please contact us at [d.lakens@tue.nl](mailto:d.lakens@tue.nl). 
 
 **2024 Program**
 
