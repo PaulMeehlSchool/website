@@ -46,12 +46,12 @@ title: ""
 <div class="news-frame">
     <div class="news-item" onclick="window.location.href='404.md';">
         <h2>News Title 1</h2>
-        <p>fndjfdf</p>
+        <p>beginning <a class="read-more" href="404.md">Read more</a> </p>
     </div>
 
     <div class="news-item" onclick="window.location.href='404.md';">
         <h2>News Title 2</h2>
-        <p>jfhodfuh</p>
+        <p>beginning <a class="read-more" href="404.md">Read more</a> </p>
     </div>
 </div>
 
