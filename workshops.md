@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: ""
 ---
 <span style="font-size:2em;">Workshops</span>
