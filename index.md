@@ -42,6 +42,7 @@ title: ""
          .read-more {
             color: #000;
             cursor: pointer;
+            font-weight: bold;
         }
     </style>
 </head>
