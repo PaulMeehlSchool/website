@@ -9,7 +9,7 @@ title: ""
 >
 > -- <cite>Paul E. Meehl</cite>
 
-###NEWS
+### NEWS
 
 | [First News](firstnews.md) |
 | ------- |
