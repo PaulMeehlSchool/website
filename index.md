@@ -22,7 +22,7 @@ title: ""
     <title>News Page</title>
     <style>
         .news-frame {
-            width: 80%; /* Adjust the width as needed */
+            width: 100%; 
             background-color: #fff;
         }
 
@@ -35,7 +35,7 @@ title: ""
 
         h2 {
             color: #333;
-            cursor: pointer; /* Add a pointer cursor for better user experience */
+            cursor: pointer; 
         }
 
         p {
