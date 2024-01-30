@@ -40,6 +40,12 @@ Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. Lunch
 
 <br>
 
+### Registration
+
+To register for this workshop, please complete the following form. Note that your registration will be considered finalized only after receiving a confirmation email.
+
+[Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUNEY4REMzTDZaSk1aVDBLWEpTU1ZWNzNYTy4u)
+
 ### Instructors
 
 **dr. Daniel Lakens**
