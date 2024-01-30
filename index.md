@@ -39,6 +39,10 @@ title: ""
         p {
             color: #666;
         }
+         .read-more {
+            color: #000;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
