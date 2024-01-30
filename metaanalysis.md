@@ -11,9 +11,13 @@ In this workshop we will discuss the perils and promises of meta-analysis. In th
 
 In the afternoon program Dr. Robbie van Aert from Tilburg University will discuss the challenge of meta-analyzing a biased scientific literature, for example due to publication bias and selective reporting. He will provide a hands-on introduction to a range of bias detection techniques, such as the p-uniform method that he developed with his collaborators. 
 
+<br>
+
 ### Prerequisites 
 
 A basic understanding of R is expected, as we will use packages such as metafor and puniform during the hands-on part of the workshop. 
+
+<br>
 
 ### Reading Materials
 
@@ -24,6 +28,8 @@ Aert, R. C. M. van, Wicherts, J. M., & Assen, M. A. L. M. van. (2016). Conductin
 Carter, E. C., Schönbrodt, F. D., Gervais, W. M., & Hilgard, J. (2019). Correcting for Bias in Psychology: A Comparison of Meta-Analytic Methods. Advances in Methods and Practices in Psychological Science, 2(2), 115–144. https://doi.org/10.1177/2515245919847196
 
 https://lakens.github.io/statistical_inferences/11-meta.html and https://lakens.github.io/statistical_inferences/12-bias.html 
+
+<br>
 
 
 ### Capacity
@@ -45,6 +51,8 @@ Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. Lunch
 To register for this workshop, please complete the following form. Note that your registration will be considered finalized only after receiving a confirmation email.
 
 [Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUNEY4REMzTDZaSk1aVDBLWEpTU1ZWNzNYTy4u)
+
+<br>
 
 ### Instructors
 
