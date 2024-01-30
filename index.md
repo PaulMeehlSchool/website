@@ -11,10 +11,10 @@ title: ""
 
 ### NEWS
 
-| [First News](firstnews.md) |
+| [First News](404.html) |
 | ------- |
-| first part of it... [reed more](firstnews.md) |
+| first part of it... [reed more](404.html) |
 
-| [Second News](secondnews.md) |
+| [Second News](404.html) |
 | ------- |
-| first part of it... [reed more](secondnews.md) |
+| first part of it... [reed more](404.html) |
