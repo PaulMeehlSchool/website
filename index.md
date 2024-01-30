@@ -53,11 +53,11 @@ title: ""
 <div class="news-frame">
     <div class="news-item" onclick="window.location.href='news/firstworkshop';">
         <h2>First workshop announced: Meta-analysis and Bias Detection</h2>
-        <p>We are thrilled to announce the first workshop of the Paul Meehl Graduate School for Metascience. The workshop will be co-taught... <a class="read-more" href="mews/firstworkshop">Read more</a> </p>
+        <p>We are thrilled to announce the first workshop of the Paul Meehl Graduate School for Metascience. The workshop will be co-taught... <a class="read-more" href="news/firstworkshop">Read more</a> </p>
     </div>
-    <div class="news-item" onclick="window.location.href='/launch';">
+    <div class="news-item" onclick="window.location.href='news/launch';">
         <h2>Launch of the Paul Meehl Graduate School for Metascience</h2>
-        <p> We are excited to announce the launch of the Paul Meehl Graduate School for Metascience hosted at Eindhoven University of Technology. With a growing number of...  <a class="read-more" href="/launch">Read more</a> </p>
+        <p> We are excited to announce the launch of the Paul Meehl Graduate School for Metascience hosted at Eindhoven University of Technology. With a growing number of...  <a class="read-more" href="news/launch">Read more</a> </p>
     </div>
 </div>
 
