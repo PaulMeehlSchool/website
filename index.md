@@ -23,7 +23,6 @@ title: ""
     <style>
         .news-frame {
             width: 80%; /* Adjust the width as needed */
-            margin: 20px auto;
             background-color: #fff;
         }
 
