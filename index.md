@@ -51,7 +51,7 @@ title: ""
 <body>
 
 <div class="news-frame">
-    <div class="news-item" onclick="window.location.href='https://github.com/PaulMeehlSchool/PaulMeehlSchool.github.io/firstworkshop.md';">
+    <div class="news-item" href="/firstworkshop.md">
         <h2>First workshop announced: Meta-analysis and Bias Detection</h2>
         <p>We are thrilled to announce the first workshop of the Paul Meehl Graduate School for Metascience. The workshop will be co-taught... <a class="read-more" href="/firstworkshop.md">Read more</a> </p>
     </div>
