@@ -1,5 +1,5 @@
 ---
-title: "Meta-analysis and Bias Detection"
+title: "First workshop announced: Meta-analysis and Bias Detection"
 layout: post
 ---
 
