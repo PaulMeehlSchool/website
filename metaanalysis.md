@@ -21,13 +21,13 @@ A basic understanding of R is expected, as we will use packages such as metafor 
 
 ### Reading Materials
 
-van Assen, M. A. L. M., van Aert, R. C. M., & Wicherts, J. M. (2015). Meta-analysis using effect size distributions of only statistically significant studies. Psychological Methods, 20(3), 293–309. https://doi.org/10.1037/met0000025
+van Assen, M. A. L. M., van Aert, R. C. M., & Wicherts, J. M. (2015). Meta-analysis using effect size distributions of only statistically significant studies. Psychological Methods, 20(3), 293–309. [](https://doi.org/10.1037/met0000025)
 
-Aert, R. C. M. van, Wicherts, J. M., & Assen, M. A. L. M. van. (2016). Conducting Meta-Analyses Based on p Values Reservations and Recommendations for Applying p-Uniform and p-Curve. Perspectives on Psychological Science, 11(5), 713–729. https://doi.org/10.1177/1745691616650874
+Aert, R. C. M. van, Wicherts, J. M., & Assen, M. A. L. M. van. (2016). Conducting Meta-Analyses Based on p Values Reservations and Recommendations for Applying p-Uniform and p-Curve. Perspectives on Psychological Science, 11(5), 713–729. [](https://doi.org/10.1177/1745691616650874)
 
-Carter, E. C., Schönbrodt, F. D., Gervais, W. M., & Hilgard, J. (2019). Correcting for Bias in Psychology: A Comparison of Meta-Analytic Methods. Advances in Methods and Practices in Psychological Science, 2(2), 115–144. https://doi.org/10.1177/2515245919847196
+Carter, E. C., Schönbrodt, F. D., Gervais, W. M., & Hilgard, J. (2019). Correcting for Bias in Psychology: A Comparison of Meta-Analytic Methods. Advances in Methods and Practices in Psychological Science, 2(2), 115–144. [](https://doi.org/10.1177/2515245919847196)
 
-https://lakens.github.io/statistical_inferences/11-meta.html and https://lakens.github.io/statistical_inferences/12-bias.html 
+[](https://lakens.github.io/statistical_inferences/11-meta.html) and [](https://lakens.github.io/statistical_inferences/12-bias.html) 
 
 <br>
 
