@@ -12,10 +12,3 @@ title: ""
 
 ### NEWS
 
-| [First News](404.html) |
-| ------- |
-| first part of it... [reed more](404.html) |
-
-| [Second News](404.html) |
-| ------- |
-| first part of it... [reed more](404.html) |
