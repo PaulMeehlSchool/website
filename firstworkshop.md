@@ -1,6 +1,6 @@
 ---
 title: "First workshop announced: Meta-analysis and Bias Detection"
-layout: post
+layout: page
 ---
 
 We are thrilled to announce the first workshop of the Paul Meehl Graduate School for Metascience. The workshop will be co-taught be Robbie van Aert (Tilburg University) and Daniel Lakens (Eindhoven University of Technology). During the workshop we will discuss how to perform a state of the art meta-analysis, and discuss the challenge of heterogeneity in the literature for the conclusions that can be drawn. Cristian Mesquida Caldentey will report on the difficulties of reproducing meta-analyses, including common errors inexperienced meta-analysts make. In the afternoon Dr. Robbie van Aert will discuss to use and limitations of state of the art bias detection techniques.
