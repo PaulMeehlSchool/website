@@ -5,47 +5,16 @@ title: ""
 
 
 
+> Whether a principle is sound—tends to facilitate approaching an epistemic aim—is an empirical question, answerable only by history of science.
+>
+> -- <cite>Paul E. Meehl</cite>
 
+###NEWS
 
+| [First News](firstnews.md) |
+| ------- |
+| first part of it... [reed more](firstnews.md) |
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .image-container {
-            flex: 1;
-        }
-
-        .quote-container {
-            flex: 1;
-            padding-left: 20px; /* Adjust as needed for spacing */
-        }
-    </style>
-</head>
-<body>
-
-<div class="container">
-    <div class="image-container">
-        <figure>
-            <img src="https://github.com/Sajedehra/sajedehra.github.io/assets/118833443/41b4c781-c172-4de6-8af6-af83658afdd4" alt="Your Image">
-            <figcaption>Paul E. Meehl (1920 - 2003)</figcaption>
-        </figure>
-            
-    </div>
-    <div class="quote-container">
-        <blockquote>
-            a quote from paul meehl
-        </blockquote>
-    </div>
-</div>
-
-</body>
-</html>
-
+| [Second News](secondnews.md) |
+| ------- |
+| first part of it... [reed more](secondnews.md) |
