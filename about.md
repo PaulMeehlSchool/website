@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: "/about/"
-layout: page
+layout: post
 ---
 
 The Paul Meehl Graduate School is a center based at Eindhoven University of Technology (TU/e) for graduate training focused on improving the quality and efficiency of scientific research. We set to encourage PhD students to critically examine the foundations, methodologies, and ethical frameworks underlying scientific practice. To this end, we offer workshops on a variety of metascientific topics that provide PhD students with the opportunity to enhance their skills and engage in meaningful discussions with fellow metascientists. In the Paul Meehl Graduate School we are driven by the belief that education should be accessible to all who seek it. All workshops are delivered tuition-free to ensure financial barriers do not hinder participation.
