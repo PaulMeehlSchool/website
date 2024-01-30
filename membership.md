@@ -11,6 +11,6 @@ Interested PhD students can register for a free membership to the Paul Meehl Gra
 
 - At least one of your supervisors must be willing to offer to organize and/or teach a workshop at the Paul Meehl Graduate School once every other academic year.
 
-[Application form](https://docs.google.com/forms/d/e/1FAIpQLSeUN-aAtmZGJr4jAvwmI8N-5EaDexadsj7MCLb1IlsTPpJQNA/viewform?usp=sf_link))
+[Application form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUREJVUTM4U05GRDNQVVJLOEQxT0ZBM0RBQy4u)
 
 Once you have applied for the membership the Research Committee will evaluate your application. You will receive a message on short notice regarding your membership status.
