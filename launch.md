@@ -1,6 +1,6 @@
 ---
 title: "Launch of the Paul Meehl Graduate School for Metascience"
-layout: post
+layout: page
 ---
 ![tue](https://images0.persgroep.net/rcs/BTf8ETE78C51u6YaN-a5A1KnPjI/diocontent/230207996/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.8)
 
