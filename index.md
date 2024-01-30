@@ -51,13 +51,13 @@ title: ""
 <body>
 
 <div class="news-frame">
-        <div class="news-item" onclick="window.location.href='404.md';">
-        <h2>News Title 2</h2>
-        <p>beginning <a class="read-more" href="404.md">Read more</a> </p>
+        <div class="news-item" onclick="window.location.href='news/firstworkshop.md';">
+        <h2>First workshop announced: Meta-analysis and Bias Detection</h2>
+        <p>We are thrilled to announce the first workshop of the Paul Meehl Graduate School for Metascience. The workshop will be co-taught... <a class="read-more" href="news/firstworkshop.md">Read more</a> </p>
     </div>
     <div class="news-item" onclick="window.location.href='news/launch.md';">
-        <h2>News Title 1</h2>
-        <p> We are excited to announce the launch of the Paul Meehl Graduate School for Metascience hosted at Eindhoven University of Technology. With a growing number of interdepartmental collaborations between philosophers of science, psychologists, and innovation scientists, the need arose to provide high quality PhD education  <a class="read-more" href="news/launch.md">Read more</a> </p>
+        <h2>Launch of the Paul Meehl Graduate School for Metascience</h2>
+        <p> We are excited to announce the launch of the Paul Meehl Graduate School for Metascience hosted at Eindhoven University of Technology. With a growing number of interdepartmental collaborations between philosophers of science, psychologists, and innovation scientists, the need arose to provide high quality PhD education...  <a class="read-more" href="news/launch.md">Read more</a> </p>
     </div>
 
 
