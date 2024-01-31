@@ -33,4 +33,4 @@ Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. Lunch
 
 ### Instructors
 
-brief introduction
+**dr. Vlasta Sikimić**
