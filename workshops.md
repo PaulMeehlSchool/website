@@ -14,7 +14,7 @@ It is important to note that ECTS credits will be assigned only upon the success
 
 You can register for each workshop on its dedicated page.  Workshops are also open to interested non-members, but please note that each workshop has limited capacity, and members of the Paul Meehl Graduate School have priority enrollment in the workshops.
 
-If you have any questions, please contact us at [d.lakens@tue.nl](mailto:d.lakens@tue.nl). 
+If you have any questions, please contact us at [paulmeehlgraduateschool@tue.nl](mailto:paulmeehlgraduateschool@tue.nl). 
 
 **2024 Program**
 
