@@ -21,7 +21,9 @@ If you have any questions, please contact us at [d.lakens@tue.nl](mailto:d.laken
 - [Meta Analysis and Bias Detection](metaanalysis.md) February 22, 2024
   
 - [Theory Building](theory.md) March 27, 2024
-  
-- [Advanced Data Simulation](simulation.md) To be announced
-  
+
 - [Value, Diversity, and Epistemic Inclusion in Science](epistemic.md) To be announced
+  
+- [Using data simulation for error prevention and detection](simulation.md) To be announced
+  
+
