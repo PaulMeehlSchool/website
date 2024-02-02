@@ -1,5 +1,5 @@
 ---
-title:  "Advanced Simulation"
+title:  "Using data simulation for error prevention and detection"
 mathjax: false
 layout: post
 categories: media
@@ -11,7 +11,7 @@ categories: media
 
 ### Prerequisites 
 
-....
+A basic understanding of R is expected for this workshop.
 
 ### Reading Materials
 
