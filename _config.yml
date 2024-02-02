@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:d.lakens@tue.nl"}
+  - {title: Mail, icon: envelope, url: "mailto:paulmeehlgraduateschool@tue.nl"}
 
 
 
