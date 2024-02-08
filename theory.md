@@ -7,15 +7,27 @@ categories: media
 
 ### Course Description
 
-.....
+In this workshop we will take a hands-on approach to developing scientific theories. Scientific theories permeate most of our modern lives. In the morning program, we will work on identifying and delineating what needs to be explained in your area of research. We will try to identify which robust effects or known phenomena are interesting enough or in need of explanation. We will try to express each phenomenon as a general pattern in the data that captures the typical study results. For example, a correlation in a bivariate normal distribution that captures comorbidity between depression and anxiety. These statistical patterns serve as targets for formal theories to reproduce.
+
+In the afternoon session, we will attempt to develop a theory that can explain these phenomena. We will begin by dissecting known theories that show the most promise. The next step will be to detail and develop the explanatory mechanisms within these theories that should contribute to the production of these phenomena. Finally, we will attempt to capture these mechanisms in a computational or mathematical model. If time permits, data from these models can be simulated and compared with the statistical patterns of the phenomena that the theory should explain.
+
+<br>
 
 ### Prerequisites 
 
-....
+Some basic knowledge of statistics is recommended, though actual statistical analyses are not part of the course. Some experience with programming languages such as R or Python is useful, but not necessary.
+
+<br>
 
 ### Reading Materials
 
-....
+Borsboom, D., van der Maas, H. L., Dalege, J., Kievit, R. A., & Haig, B. D. (2021). Theory construction methodology: A practical framework for building theories in psychology. Perspectives on Psychological Science, 16(4), 756-766. [https://doi.org/10.1177/1745691620969647](https://doi.org/10.1177/1745691620969647)
+
+van Dongen, N. N. N., van Bork, R., Finnemann, A., van der Maas, H., Robinaugh, D., Haslbeck, J. M. B., van der Maas, H. L. J., Robinaugh D.J., de Ron, J., Sprenger, J. M., Borsboom, D. (in press). Productive Explanation: A Framework for Evaluating Explanations in Psychological Science. Psychological Review. [https://doi.org/10.31234/osf.io/qd69g](https://doi.org/10.31234/osf.io/qd69g)
+
+Harris, R. J. (1976). The uncertain connection between verbal theories and research hypotheses in social psychology. Journal of Experimental Social Psychology, 12(2), 210-219. [https://doi.org/10.1016/0022-1031(76)90071-8](https://doi.org/10.1016/0022-1031(76)90071-8)
+
+<br>
 
 ### Capacity
 
