@@ -24,6 +24,8 @@ If you have any questions, please contact us at [paulmeehlgraduateschool@tue.nl]
 
 - [Value, Diversity, and Epistemic Inclusion in Science](epistemic.md) To be announced
   
-- [Using data simulation for error prevention and detection](simulation.md) To be announced
+- [Using Data Simulation for Error Prevention and Detection](simulation.md) To be announced
+
+- [Best Practices in Reproducible Workflows](workflow.md) To be announced
   
 
