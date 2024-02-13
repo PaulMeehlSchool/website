@@ -51,6 +51,10 @@ title: ""
 <body>
 
 <div class="news-frame">
+    <div class="news-item" onclick="window.location.href='news_second';">
+        <h2>Second workshop announced: Theory Development - Join Our Mailing List for Updates!</h2>
+        <p>We are thrilled to announce that registration is now open for the second workshop of the Paul Meehl Graduate School. Noah van Dongen will discuss the prerequisites of... <a class="read-more" href="news_second">Read more</a> </p>
+    </div>
     <div class="news-item" onclick="window.location.href='firstworkshop';">
         <h2>First workshop announced: Meta-analysis and Bias Detection</h2>
         <p>We are thrilled to announce the first workshop of the Paul Meehl Graduate School for Metascience. The workshop will be co-taught... <a class="read-more" href="firstworkshop">Read more</a> </p>
