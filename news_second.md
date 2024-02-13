@@ -2,7 +2,7 @@
 title: "Second workshop announced: Theory Development"
 layout: post
 ---
-![theory]([https://images0.persgroep.net/rcs/BTf8ETE78C51u6YaN-a5A1KnPjI/diocontent/230207996/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.8](https://tuenl-my.sharepoint.com/:i:/r/personal/s_rasti_tue_nl/Documents/Screenshot%202024-02-13%20100144.png?csf=1&web=1&e=XWDNB8)){: style="width: 100%;"}
+![theory](https://tuenl-my.sharepoint.com/:i:/r/personal/s_rasti_tue_nl/Documents/Screenshot%202024-02-13%20100144.png?csf=1&web=1&e=XWDNB8){: style="width: 100%;"}
 
 We are thrilled to announce that registration is now open for the second workshop of the Paul Meehl Graduate School. Noah van Dongen will discuss the prerequisites of theory development in the morning, and we will try to develop a theory and possibly run some simulations in the afternoon. You can find more about this workshop [here](theory.md).
 
