@@ -1,5 +1,5 @@
 ---
-title: "Second workshop announced: Theory Development"
+title: "Second workshop announced: Theory Development -  Join Our Mailing List for Updates!"
 layout: post
 ---
 ![theory](theory.png){: style="width: 100%;"}
