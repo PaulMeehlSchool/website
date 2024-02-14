@@ -9,7 +9,7 @@ Interested PhD students can register for a free membership to the Paul Meehl Gra
 
 - You must be registered as a PhD student at a European university.
 
-- At least one of your supervisors must be willing to offer to organize and/or teach a workshop at the Paul Meehl Graduate School once every other academic year.
+- At least one of your supervisors must be willing to organize and/or teach a workshop at the Paul Meehl Graduate School once every other academic year.
 
 [Application form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUMUcwQ1FXS1Q4MVY0M0gwWTVWR0MwU1ZHRS4u)
 
