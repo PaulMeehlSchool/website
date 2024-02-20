@@ -24,7 +24,7 @@ If you have any further questions, please contact us at [paulmeehlgraduateschool
   
 - [Theory Building](theory.md) March 27, 2024
 
-- [Value, Diversity, and Epistemic Inclusion in Science](epistemic.md) To be announced
+- [Value, Diversity, and Epistemic Inclusion in Science](epistemic.md) April 26, 2024
   
 - [Using Data Simulation for Error Prevention and Detection](simulation.md) To be announced
 
