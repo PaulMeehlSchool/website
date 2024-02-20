@@ -14,6 +14,8 @@ It is important to note that ECTS credits will be assigned only upon the success
 
 You can register for each workshop on its dedicated page.  Workshops are also open to interested non-members, but please note that each workshop has limited capacity, and members of the Paul Meehl Graduate School have priority enrollment in the workshops. All members receive notifications upon the announcement of workshops. If you are not a member but wish to receive these notifications, please sign up for the [mailing list](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUMEI2VEZYVUkzWkdSRVBPWTZaWlgyRUZXSC4u).
 
+Please note that all workshops will be held <ins>**on-site only**</ins> at Eindhoven University of Technology.
+
 If you have any further questions, please contact us at [paulmeehlgraduateschool@tue.nl](mailto:paulmeehlgraduateschool@tue.nl). 
 
 **2024 Program**
