@@ -40,7 +40,7 @@ This course has a maximum capacity of 25 participants.
 
 ### Time and Location
 
-This workshop will be held on-site only at Eindhoven University of Technology. Details will be provided to all attendees over email after registration for the workshop.
+This workshop will be held <ins>**on-site only**</ins> at Eindhoven University of Technology on **February 22, 2024**. Details will be provided to all attendees over email after registration for the workshop.
 
 Workshops start from 9:30 to 16:30 with a lunch break from 12:30 to 13:30. Lunch will not be provided but can be purchased at the university canteen or the on-campus supermarket. 
 
