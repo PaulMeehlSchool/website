@@ -2,7 +2,7 @@
 title: "New workshop announced: Value, Diversity and Epistemic Inclusion in Science"
 layout: post
 ---
-![image](https://github.com/PaulMeehlSchool/PaulMeehlSchool.github.io/assets/157975473/ee1a1427-92ee-499c-acf6-7798aacc4990){: style="width: 100%;"}
+![image](https://github.com/PaulMeehlSchool/PaulMeehlSchool.github.io/assets/157975473/305d4fa2-fd01-431d-9370-3927d1b56c39){: style="width: 100%;"}
 
 We're excited to announce that registration is now open for the third workshop of the Paul Meehl Graduate School. During the morning session, Vlasta Sikimić will delve into the network of values in science, with a particular emphasis on the impact of diversity. In the afternoon, we'll tackle the topic of epistemic inclusion and discuss strategies for enhancement. For further details about this workshop, click [here](epistemic.md). Please note that the workshop will be **exclusively in-person**. We look forward to seeing you in Eindhoven on the 26th of April!
 
