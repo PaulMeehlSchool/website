@@ -56,7 +56,6 @@ title: ""
         <p>We're excited to announce that registration is now open for the third workshop of the Paul Meehl Graduate School. During the morning session, Vlasta Sikimić will delve into the network of values ... <a class="read-more" href="thirdworkshop">Read more</a> </p>
     </div>
 
-<div class="news-frame">
     <div class="news-item" onclick="window.location.href='news_second';">
         <h2>Second workshop announced: Theory Development - Join Our Mailing List for Updates!</h2>
         <p>We are thrilled to announce that registration is now open for the second workshop of the Paul Meehl Graduate School. Noah van Dongen will discuss the prerequisites of... <a class="read-more" href="news_second">Read more</a> </p>
