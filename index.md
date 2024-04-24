@@ -51,6 +51,11 @@ title: ""
 <body>
     
 <div class="news-frame">
+        <div class="news-item" onclick="window.location.href='News_fourth';">
+        <h2>New workshop announced: Advanced Topics in Data Simulation</h2>
+        <p>We're excited to announce that registration is now open for the forth (and the last for this academic year) workshop of the Paul Meehl Graduate School. During the morning session, Lisa DeBruine will discuss ... <a class="read-more" href="News_fourth">Read more</a> </p>
+    </div>
+
     <div class="news-item" onclick="window.location.href='thirdworkshop';">
         <h2>New workshop announced: Value, Diversity and Epistemic Inclusion in Science</h2>
         <p>We're excited to announce that registration is now open for the third workshop of the Paul Meehl Graduate School. During the morning session, Vlasta Sikimić will delve into the network of values ... <a class="read-more" href="thirdworkshop">Read more</a> </p>
