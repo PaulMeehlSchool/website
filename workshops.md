@@ -26,7 +26,7 @@ If you have any further questions, please contact us at [paulmeehlgraduateschool
 
 - [Value, Diversity, and Epistemic Inclusion in Science](epistemic.md) April 26, 2024
   
-- [Using Data Simulation for Error Prevention and Detection](simulation.md) To be announced
+- [Advanced Topics in Data Simulation](simulation.md) May 22, 2024
 
 - [Best Practices in Reproducible Workflows](workflow.md) To be announced
   
