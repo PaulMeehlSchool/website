@@ -15,7 +15,7 @@ A basic understanding of R is expected for this workshop. Make sure packages `fa
 
 ### Reading Materials
 
-TBD
+DeBruine LM, Barr DJ. Understanding Mixed-Effects Models Through Data Simulation. Advances in Methods and Practices in Psychological Science. 2021;4(1). [https://doi.org/10.1177/2515245920965119](https://doi.org/10.1177/2515245920965119)
 
 ### Capacity
 
