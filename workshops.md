@@ -18,16 +18,13 @@ Please note that all workshops will be held <ins>**on-site only**</ins> at Eindh
 
 If you have any further questions, please contact us at [paulmeehlgraduateschool@tue.nl](mailto:paulmeehlgraduateschool@tue.nl). 
 
-**2024 Program**
 
-- [Meta Analysis and Bias Detection](metaanalysis.md) February 22, 2024
+**2024-2025 Program**
+
+- [Paul Meehl Graduate School PhD Day](workshops/second year/phdday.md) September 20, 2024
+
+- [Best Practices in Reproducible Workflows](workshops/second year/workflow.md) October 23, 2024
   
-- [Theory Building](theory.md) March 27, 2024
 
-- [Value, Diversity, and Epistemic Inclusion in Science](epistemic.md) April 26, 2024
-  
-- [Advanced Topics in Data Simulation](simulation.md) May 22, 2024
-
-- [Best Practices in Reproducible Workflows](workflow.md) To be announced
   
 
