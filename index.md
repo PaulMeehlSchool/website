@@ -49,8 +49,12 @@ title: ""
     </style>
 </head>
 <body>
-    
-<div class="news-frame">
+   <div class="news-frame">
+        <div class="news-item" onclick="window.location.href='news/phdday_announce';">
+        <h2>New workshop announced: Advanced Topics in Data Simulation</h2>
+        <p>We're excited to announce that registration is now open for the first Paul Meehl Graduate School PhD Day conference. This session can present a great oppuntunity for PhD students to get feedback on their work from experts and peers ... <a class="read-more" href="news/phdday_announce">Read more</a> </p>
+    </div> 
+   <div class="news-frame">
         <div class="news-item" onclick="window.location.href='news/News_fourth';">
         <h2>New workshop announced: Advanced Topics in Data Simulation</h2>
         <p>We're excited to announce that registration is now open for the fourth (and the last for this academic year) workshop of the Paul Meehl Graduate School. During the morning session, Lisa DeBruine will discuss ... <a class="read-more" href="news/News_fourth">Read more</a> </p>
