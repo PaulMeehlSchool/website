@@ -25,7 +25,7 @@ The conference will start from 9:00 to 18:00 with a lunch break from 12:45 to 13
 
 ### Participation
 
-Contributions can involve the presentation of research or evaluative data and/or conceptual and theoretical work with main focus on Meta-scientific topics. The presentations can be maximum 20 minutes. Upon acceptance, the title and abstract of the talk would be available for all participants. Please note that members of PMGS are in the priority of presentation. If you wish to be a member, check details and criteria [here](PaulMeehlSchool.github.io/membership.md). 
+Contributions can involve the presentation of research or evaluative data and/or conceptual and theoretical work with main focus on Meta-scientific topics. The presentations can be maximum 20 minutes. Upon acceptance, the title and abstract of the talk would be available for all participants. Please note that members of PMGS are in the priority of presentation. If you wish to be a member, check details and criteria [here](../../membership.md). 
 
 To submit your work, please fill in the following form by **August 15**: [Participation Form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUOTJDTlpDQkc5OVE0MDNRWDJNVVdVQ0tKQy4u)
 
