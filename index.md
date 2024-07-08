@@ -56,23 +56,16 @@ title: ""
         <p>We're excited to announce that registration is now open for the fourth (and the last for this academic year) workshop of the Paul Meehl Graduate School. During the morning session, Lisa DeBruine will discuss ... <a class="read-more" href="news/News_fourth">Read more</a> </p>
     </div>
 
-    <div class="news-item" onclick="window.location.href='thirdworkshop';">
+    <div class="news-item" onclick="window.location.href='news/thirdworkshop';">
         <h2>New workshop announced: Value, Diversity and Epistemic Inclusion in Science</h2>
-        <p>We're excited to announce that registration is now open for the third workshop of the Paul Meehl Graduate School. During the morning session, Vlasta Sikimić will delve into the network of values ... <a class="read-more" href="thirdworkshop">Read more</a> </p>
+        <p>We're excited to announce that registration is now open for the third workshop of the Paul Meehl Graduate School. During the morning session, Vlasta Sikimić will delve into the network of values ... <a class="read-more" href="news/thirdworkshop">Read more</a> </p>
     </div>
 
-    <div class="news-item" onclick="window.location.href='news_second';">
+    <div class="news-item" onclick="window.location.href='news/news_second';">
         <h2>Second workshop announced: Theory Development - Join Our Mailing List for Updates!</h2>
-        <p>We are thrilled to announce that registration is now open for the second workshop of the Paul Meehl Graduate School. Noah van Dongen will discuss the prerequisites of... <a class="read-more" href="news_second">Read more</a> </p>
+        <p>We are thrilled to announce that registration is now open for the second workshop of the Paul Meehl Graduate School. Noah van Dongen will discuss the prerequisites of... <a class="read-more" href="news/news_second">Read more</a> </p>
     </div>
-    <div class="news-item" onclick="window.location.href='firstworkshop';">
-        <h2>First workshop announced: Meta-analysis and Bias Detection</h2>
-        <p>We are thrilled to announce the first workshop of the Paul Meehl Graduate School for Metascience. The workshop will be co-taught... <a class="read-more" href="firstworkshop">Read more</a> </p>
-    </div>
-    <div class="news-item" onclick="window.location.href='launch';">
-        <h2>Launch of the Paul Meehl Graduate School for Metascience</h2>
-        <p> We are excited to announce the launch of the Paul Meehl Graduate School for Metascience hosted at Eindhoven University of Technology. With a growing number of...  <a class="read-more" href="launch">Read more</a> </p>
-    </div>
+
 </div>
 
 
