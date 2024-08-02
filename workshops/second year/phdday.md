@@ -5,13 +5,21 @@ layout: post
 categories: media
 ---
 
+![image](https://www.canva.com/design/DAGLwSRqLLc/DxaPzBASAOFm6Zi8ALw6Vg/view?utm_content=DAGLwSRqLLc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ### Description
 
 Paul Meehl Graduate School organises a PhD day conference each academic year to encourage idea-sharing and collective support among PhD students.This event provides an opportunity for early-career researchers to present their meta-scientific projects and benefit from the feedback of experts and peers. Many PhD students active in meta-science might feel isolated, PhD Day would be a great opportunity for students to create networks and find possible collaborators for future projects.
 
 ### Guests
 
-TBD
+Dr Miguel Silan
+
+Dr Tamarinde Haven
+
+Dr Olmo van den Akker
+
+More TBA
 
 ### Capacity
 
