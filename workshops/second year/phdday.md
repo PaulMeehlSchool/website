@@ -19,7 +19,9 @@ Dr Olmo van den Akker
 
 Dr Leo Tiokhin
 
-More TBA
+## Program
+
+[Conference Program](https://docs.google.com/document/d/1Xpv6ZJ4HQKlsFO6HkJYgCIvyGd6uu_dFi-oAJ-sQ2Mw/edit?usp=sharing)
 
 ### Capacity
 
