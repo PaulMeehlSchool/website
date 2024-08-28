@@ -5,11 +5,11 @@ layout: post
 categories: media
 ---
 
-### Description
+## Description
 
 Paul Meehl Graduate School organises a PhD day conference each academic year to encourage idea-sharing and collective support among PhD students.This event provides an opportunity for early-career researchers to present their meta-scientific projects and benefit from the feedback of experts and peers. Many PhD students active in meta-science might feel isolated, PhD Day would be a great opportunity for students to create networks and find possible collaborators for future projects.
 
-### Guests
+## Guests
 
 Dr Miguel Silan
 
@@ -33,7 +33,7 @@ This event will be held <ins>**on-site only**</ins> at Eindhoven University of T
 
 The conference will start from 9:00 to 18:00 with a lunch break from 12:45 to 13:45.
 
-### Participation
+## Participation
 
 Contributions can involve the presentation of research or evaluative data and/or conceptual and theoretical work with main focus on Meta-scientific topics. The presentations can be maximum 20 minutes. Upon acceptance, the title and abstract of the talk would be available for all participants. Please note that members of PMGS are in the priority of presentation. If you wish to be a member, check details and criteria [here](../../membership.md). 
 
@@ -41,7 +41,7 @@ To submit your work, please fill in the following form by **August 15**: [Partic
 
 For any further inquiries, please contact us at [paulmeehlgraduateschool@tue.nl](mailto:paulmeehlgraduateschool@tue.nl)
 
-### Registration
+## Registration
 
 Attending this event is free of charge. To register for this event, please complete the following form. Note that your registration will be considered finalized only after receiving a confirmation email.
 
