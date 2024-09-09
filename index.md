@@ -52,7 +52,7 @@ title: ""
 <body>
         <div class="news-item" onclick="window.location.href='news/reproducible_workshop';">
         <h2>New workshop announced: A Workflow for Open Reproducible Code in Science (WORCS)</h2>
-        <p>We are excited to announce that registration is now open for our first workshop of the new academic year. In the morning session, Casper van Lissa will introduce the fundamental principles of reproducible science ... <a class="read-more" href="news/reproducible_workshop">Read more</a> </p>
+        <p>We are excited to announce that registration is now open for our first workshop of the new academic year. In the morning session, Casper van Lissa will introduce the fundamental principles of reproducible... <a class="read-more" href="news/reproducible_workshop">Read more</a> </p>
     </div>
    <div class="news-frame">
         <div class="news-item" onclick="window.location.href='news/phdday_announce';">
