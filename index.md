@@ -50,6 +50,10 @@ title: ""
 </head>
 
 <body>
+        <div class="news-item" onclick="window.location.href='news/reproducible_workshop';">
+        <h2>New workshop announced: A Workflow for Open Reproducible Code in Science (WORCS)</h2>
+        <p>We are excited to announce that registration is now open for our first workshop of the new academic year. In the morning session, Casper van Lissa will introduce the fundamental principles of reproducible science ... <a class="read-more" href="news/reproducible_workshop">Read more</a> </p>
+    </div>
    <div class="news-frame">
         <div class="news-item" onclick="window.location.href='news/phdday_announce';">
         <h2>First PMGS PhD Day Conference</h2>
@@ -64,10 +68,7 @@ title: ""
         <h2>New workshop announced: Value, Diversity and Epistemic Inclusion in Science</h2>
         <p>We're excited to announce that registration is now open for the third workshop of the Paul Meehl Graduate School. During the morning session, Vlasta Sikimić will delve into the network of values ... <a class="read-more" href="news/thirdworkshop">Read more</a> </p>
     </div>
-    <div class="news-item" onclick="window.location.href='news/news_second';">
-        <h2>Second workshop announced: Theory Development - Join Our Mailing List for Updates!</h2>
-        <p>We are thrilled to announce that registration is now open for the second workshop of the Paul Meehl Graduate School. Noah van Dongen will discuss the prerequisites of... <a class="read-more" href="news/news_second">Read more</a> </p>
-    </div>
 </body>
+       
 </html>
 
