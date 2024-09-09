@@ -15,6 +15,8 @@ The Workflow for Open Reproducible Code in Science (WORCS) is a step-by-step pro
 
 A basic understanding of R is expected for this workshop.
 
+To set up you computer for WORCS you can follow the following instructions: [https://cjvanlissa.github.io/worcs/articles/setup.html](https://cjvanlissa.github.io/worcs/articles/setup.html)
+
 <br>
 
 ## Reading Materials
