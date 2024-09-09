@@ -9,6 +9,6 @@ We are excited to announce that registration is now open for our first workshop 
 
 This workshop provides young researchers with the opportunity to learn practical skills for making their research open and reproducible, while also gaining knowledge about reproducibility tools and techniques that can save time and enhance the credibility of their research.
 
-For further details about this workshop, click [here](workshops/second year/workflow.md). Please note that the workshop will be **exclusively in-person**. We look forward to seeing you in Eindhoven on the 23rd of October!
+For further details about this workshop, click [here]([workshops/second year](https://paulmeehlschool.github.io/workshops/second%20year/workflow/). Please note that the workshop will be **exclusively in-person**. We look forward to seeing you in Eindhoven on the 23rd of October!
 
 You can register for this workshop by completing the [Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=R_J9zM5gD0qddXBM9g78ZP_Kihp-VglPgWom9gajHXdUN1VXUFFDVEtSWVJVNUlOUkw0QUo4WkI1WS4u). Please make sure to register before <ins>**Oct 1st**</ins>. Priority will be given to those who are members at Paul Meehl Graduate School. If you wish to become a member, please check the membership criteria on this [page](membership.md).
