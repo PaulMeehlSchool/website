@@ -23,7 +23,7 @@ If you have any further questions, please contact us at [paulmeehlgraduateschool
 
 - [Paul Meehl Graduate School PhD Day](workshops/second year/phdday.md) September 20, 2024
 
-- [Best Practices in Reproducible Workflows](workshops/second year/workflow.md) October 23, 2024
+- [A Workflow for Open Reproducible Code in Science (WORCS)](workshops/second year/workflow.md) October 23, 2024
   
 
   
