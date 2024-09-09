@@ -1,5 +1,5 @@
 ---
-title: "A Workflow for Open Reproducible Code in Science (WORCS)"
+title: "New workshop announced: A Workflow for Open Reproducible Code in Science (WORCS)"
 layout: post
 ---
 
