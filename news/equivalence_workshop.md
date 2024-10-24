@@ -7,7 +7,7 @@ layout: post
 </div>
 
 
-We are thrilled to announce that registration is now open for our new workshop. In this workshop, **Daniel Lakens**, **Paul Riesthuis**, and **ack Fitzgerald** will discuss the underlying rationale of interval hypothesis tests  and different approaches to specifying a smallest effect size of interest to test against in an equivalence test. This workshop also contains hands-on practices to perform equivalence tests, as well as more advance topics such as a-priori power analyses for interval hypothesis tests and three-sided hypothesis tests. 
+We are thrilled to announce that registration is now open for our new workshop. In this workshop, Daniel Lakens, Paul Riesthuis, and Jack Fitzgerald will discuss the underlying rationale of interval hypothesis tests  and different approaches to specifying a smallest effect size of interest to test against in an equivalence test. This workshop also contains hands-on practices to perform equivalence tests, as well as more advance topics such as a-priori power analyses for interval hypothesis tests and three-sided hypothesis tests. 
 
 You can find more about this workshop [here](https://paulmeehlschool.github.io/workshops/second%20year/equivalence/). We look forward to seeing you in Eindhoven on the 12th of December!
 
