@@ -52,7 +52,7 @@ title: ""
 <body>
     <div class="news-item" onclick="window.location.href='news/equivalence_workshop';">
         <h2>New workshop announced: Equivalence Testing and the Smallest Effect Size of Interest </h2>
-        <p>We are thrilled to announce that registration is now open for our new workshop. In this workshop, Daniel Lakens, Paul Riesthuis, and ack Fitzgerald will discuss the underlying rationale of interval hypothesis tests... <a class="read-more" href="news/equivalence_workshop">Read more</a> </p>
+        <p>We are thrilled to announce that registration is now open for our new workshop. In this workshop, Daniel Lakens, Paul Riesthuis, and Jack Fitzgerald will discuss the underlying rationale of interval hypothesis tests... <a class="read-more" href="news/equivalence_workshop">Read more</a> </p>
     </div>
         <div class="news-item" onclick="window.location.href='news/reproducible_workshop';">
         <h2>New workshop announced: A Workflow for Open Reproducible Code in Science (WORCS)</h2>
